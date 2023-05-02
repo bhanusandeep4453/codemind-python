@@ -1,4 +1,4 @@
-sum1=int(input())
-sum2=int(input())
-add=sum1+sum2
-print("%d"%add)
+n=int(input())
+m=int(input())
+x=n+m
+print(x)

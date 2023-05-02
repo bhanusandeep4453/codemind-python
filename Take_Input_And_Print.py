@@ -1,2 +1,2 @@
-n=input()
-print("%s"%n)
+a=input()
+print(a)

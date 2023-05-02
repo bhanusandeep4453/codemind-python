@@ -1,4 +1,4 @@
-n1=int(input())
-n2=int(input())
-mod=n1%n2
-print("%d"%mod)
+n=int(input())
+m=int(input())
+x=n%m
+print(x)
